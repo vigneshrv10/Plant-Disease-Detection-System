@@ -1,1 +1,2 @@
 # Plant-Disease-Detection-System
+Developed a deep learning-based Plant Disease Detection System that utilizes a convolutional neural network (CNN) to classify images of plants into different disease categories. Designed and trained a CNN model to achieve high accuracy, implemented a remedy suggestion system, and built a user-friendly web application using Streamlit. Demonstrated skills in deep learning, image processing, web development, and problem-solving.
